@@ -301,7 +301,7 @@
 				
 				<div class="p-item branding graphic-design">
 					<a href="images/object.jpeg" data-fluidbox>
-						<img src="images/object1.jpeg" alt=""></a>
+						<img src="images/object.jpeg" alt=""></a>
 				</div><!-- p-item -->
 				
 			
